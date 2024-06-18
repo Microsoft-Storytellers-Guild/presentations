@@ -1,2 +1,3 @@
-# presentations
-Public assets for presentations by the Storytellers Guild
+# Storytellers Guild presentations
+
+This site contains public assets for public presentations by the Storytellers Guild. 

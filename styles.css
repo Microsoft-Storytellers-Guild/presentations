@@ -39,6 +39,7 @@ margin-bottom: 20px;
 .cards-wrapper {
 display: flex;
 gap: 10px;
+max-width: 790px;
 
 a {
   color: black;

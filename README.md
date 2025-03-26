@@ -1,3 +1,3 @@
 # Storytellers Guild presentations
 
-This site contains public assets for public presentations by the Storytellers Guild. 
+[https://microsoft-storytellers-guild.github.io/presentations/](https://microsoft-storytellers-guild.github.io/presentations/)

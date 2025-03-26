@@ -1,1 +1,0 @@
-[This is something](https://github.com/Microsoft-Storytellers-Guild/presentations/blob/f75c0d007b19050a6739d7e4579c7e6304075a4a/PAX%20West%202023/PAX%20West%20-%20Tabletop%20Role-Playing%20games%20at%20work%20for%20Fun%20and%20Profit%20public.pptx)

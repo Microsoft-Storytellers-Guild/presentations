@@ -2,3 +2,15 @@
 body {
 color: red;
 }
+
+
+.cards-wrapper {
+display: flex;
+}
+
+.card {
+width: 250 px;
+  padding: 10 px;
+  border-radius: 5 px;
+  border: solid black 1 px;
+}
